@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.github.gleisonsensui.BootstrapperStartTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.355 s -- in com.github.gleisonsensui.BootstrapperStartTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.146 s -- in com.github.gleisonsensui.BootstrapperStartTests
